@@ -1,2 +1,2 @@
-Python Numpy Pandas Matplotlib SciKit-Learn NLTK Tensolflow dJango Flask Bottle Web2py TurboGears matpotlib SimpleCV 
+Python Numpy Pandas Matplotlib SciKit-Learn NLTK TensorFlow Django Flask Bottle Web2py TurboGears matpotlib SimpleCV 
 CubicWeb Giotto Pylon Bottle CherryPy Flask Sanic Tornado Keras KivEnt Pyglet RenPy Pygame Pillow scipy OpenCV
