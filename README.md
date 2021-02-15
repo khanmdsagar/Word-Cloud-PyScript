@@ -1,3 +1,2 @@
-# Python Script
-Some scripts for different jobs
+# Word Cloud Python Script
 
